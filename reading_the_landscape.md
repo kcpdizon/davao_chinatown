@@ -35,6 +35,20 @@ Completed on January 31, 2009, this was the second of four archways planned in C
   <img src="assets/archways/arch_unity_dragons.jpg" alt="dragons" style="width: 33%; height: auto; border-radius: 4px;">
 </div>
 
+````{grid} 1 2 3
+
+```{grid-item-card}
+![carp](assets/archways/arch_unity_carp.jpg)
+```
+
+```{grid-item-card}
+![center pattern](assets/archways/arch_unity_center.jpg)
+```
+```{grid-item-card}
+![dragons](assets/archways/arch_unity_dragons.jpg)
+```
+````
+
 <p style="font-size: 70%;>
     The Unity Arch was recently repainted in February 2026 in preparation for the Chinese New Year celebration
 </p>
@@ -67,6 +81,7 @@ Familiar design motifs are present at the park: dragons chasing durians (rather 
         <img src="assets/archways/unity_park_lantern.jpg" alt="Description 3" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
     </div>
 </div>
+
 
 
 ### Peace Archway 「和平門」

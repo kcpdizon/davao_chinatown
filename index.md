@@ -1,4 +1,3 @@
-### Project Introduction
 
 This project documents the present-day cultural landscape of Davao City's Chinatown, also known as Santa Ana or Uyanguren, analyzing its spatial characteristics and built environment, particularly following its formal designation as Chinatown in 2003. 
 

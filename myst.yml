@@ -13,6 +13,7 @@ project:
     - file: frontier_to_chinatown.md
     - file: reading_the_landscape.md
     - file: virtual_walking_tour.md
+    - file: whose_heritage.md
     - file: references.md
   exclude:
     - bin/**
