@@ -6,7 +6,7 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 
 ### Where is Davao?
 
-```{iframe} ./html/fly_to_davao.html
+```{iframe} html/fly_to_davao.html
 :width: 100%
 :height: 450px
 ```
