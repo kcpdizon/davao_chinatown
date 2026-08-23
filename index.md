@@ -1,4 +1,3 @@
-## Davao City Chinatown 納卯市華人區
 
 ### Project Introduction
 
