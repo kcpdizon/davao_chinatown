@@ -43,6 +43,28 @@ Completed on January 31, 2009, this was the second of four archways planned in C
 ```
 :::
 
+```{raw} html
+<div style="max-width: 700px; margin: 0 auto;">
+```
+
+:::{div} 
+:style: max-width: 700px; margin: 0 auto;
+
+:::{grid} 3
+:gutter: 2
+```{image} assets/archways/arch_unity_carp.jpg
+:alt: carp motif
+```
+```{image} assets/archways/arch_unity_center.jpg
+:alt: center pattern
+```
+```{image} assets/archways/arch_unity_dragons.jpg
+:alt: dragons
+```
+:::
+
+:::
+
 <p style="font-size: 70%;>
     The Unity Arch was recently repainted in February 2026 in preparation for the Chinese New Year celebration
 </p>
