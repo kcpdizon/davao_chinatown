@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 9fd82ccb-1b46-467f-86a7-e7fc507113ef
+  title: Davao City Chinatown
+  description: A present-day documentation of Davao City's Chinatown as a cultural landscape
+  keywords: 
+      - jupyter-book
+      - chinatown
+  authors: []
+  github: kcpdizon/davao_chinatown
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site: 
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
