@@ -1,3 +1,6 @@
+---
+title: References
+---
 
 - Alama, R. (2026, February 8). Davao City Chinatown tourism plans to be pursued. Philippine Information Agency. https://pia.gov.ph/news/davao-city-chinatown-tourism-plans-to-be-pursued/
 - Alejandrino, C. L. (2010). The population history of the Chinese in the Philippines: An evaluative historiography. Philippine Population Review, 9(1), 85–108.
