@@ -5,9 +5,15 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 
 ### Where is Davao?
 
-```{iframe} html/fly_to_davao.html
-:width: 100%
-:height: 450px
+```{raw} html
+<div style="display: flex; justify-content: center; width: 100%; margin: 1rem 0;">
+  <iframe 
+    src="https://kcpdizon.github.io/davao_chinatown/html/fly_to_davao.html" 
+    title="Zooming into Davao City" 
+    style="width: 100%; max-width: 800px; height: 450px; border: none; outline: none; border-radius: 8px;"
+    scrolling="no">
+  </iframe>
+</div>
 ```
 
 Davao City is located on the island of Mindanao, facing the Davao Gulf. Its geographic position made the region an important site of agricultural production, migration and commercial exchange in the early twentieth century. 
