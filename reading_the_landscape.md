@@ -1,3 +1,6 @@
+---
+title: Reading the Landscape of Davao City's Chinatown
+---
 
 As part of its tourism and heritage initiatives, the Davao City government, in cooperation with Davao City Chinatown Development Council (DCCDC), has progressively developed and promoted the district since its designation in 2023. 
 
