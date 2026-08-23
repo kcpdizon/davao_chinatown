@@ -97,8 +97,8 @@ Also completed in 2009, this archway is predominantly red in color, with the Chi
 
 <div align="center">
     <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/arch_peace_carp.jpg" alt="carp motif" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/arch_peace_details.jpg" alt="center pattern" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_peace_carp.jpg" alt="carp motif" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_peace_details.jpg" alt="center pattern" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     </div>
 </div>
 
@@ -106,8 +106,8 @@ Moving to the inscriptions on the pillars of the archway, we can find some infor
 
 <div align="center">
  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/arch_peace_plaque1.jpg" alt="peace archway plaque: welcome to chinatwon" style="width: 200px; height: 100%; object-fit: cover; border-radius: 4px;">
-        <img src="assets/arch_peace_plaque2.jpg" alt="peace archway plauqe: yuchengco" style="width: 200px; height: 100%; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_peace_plaque1.jpg" alt="peace archway plaque: welcome to chinatwon" style="width: 200px; height: 100%; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_peace_plaque2.jpg" alt="peace archway plauqe: yuchengco" style="width: 200px; height: 100%; object-fit: cover; border-radius: 4px;">
     </div>
 </div>
 
@@ -115,7 +115,7 @@ Moving to the inscriptions on the pillars of the archway, we can find some infor
 
 <div align="center">
     <div style="margin-top: 15px; margin-bottom: 15px;">
-    <img src="assets/arch_friendship.jpg" alt="friendship arch" width="65%">
+    <img src="assets/archways/arch_friendship.jpg" alt="friendship arch" width="65%">
     </div>
 </div>
 
@@ -123,9 +123,9 @@ The first archway to be completed in Chinatown, the Friendship Arch was inaugura
 
 <div align="center">
     <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/arch_friendship_corner.jpg" alt="carp motif" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/arch_friendship_railings.jpg" alt="center pattern" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/arch_friendship_carp.jpg" alt="center pattern" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_friendship_corner.jpg" alt="carp motif" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_friendship_railings.jpg" alt="center pattern" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_friendship_carp.jpg" alt="center pattern" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
     </div>
 </div>
 
@@ -136,7 +136,7 @@ This structure was donated by the descendants of Francisco Villa Abrille (Lim Ch
 
 <div align="center">
     <div style="margin-top: 15px; margin-bottom: 15px;">
-    <img src="assets/arch_prosperity.jpg" alt="prosperity arch" width="65%">
+    <img src="assets/archways/arch_prosperity.jpg" alt="prosperity arch" width="65%">
     </div>
 </div>
 
@@ -144,8 +144,8 @@ Completed in 2009, the archway's primarily blue color scheme sets it apart from 
 
 <div align="center">
     <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/arch_prosperity_carp.jpg" alt="carp motif" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/arch_prosperity_name.jpg" alt="center pattern" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_prosperity_carp.jpg" alt="carp motif" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/archways/arch_prosperity_name.jpg" alt="center pattern" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     </div>
 </div>
 
@@ -156,7 +156,7 @@ The construction of this archway was made possible with the donations of the Phi
 
 <div align="center">
     <div style="margin-top: 15px; margin-bottom: 15px;">
-    <img src="assets/arch_prosperity.jpg" alt="prosperity arch" width="65%">
+    <img src="assets/archways/arch_prosperity.jpg" alt="prosperity arch" width="65%">
     </div>
 </div>
 
@@ -175,8 +175,8 @@ Walking around Chinatown, I've noticed a few different versions of the 44 street
 
 <div align="center">
     <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/ss_sta_ana_old_wide.jpg" alt="sta ana old design: wide" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/ss_sta_ana_old_zoom.jpg" alt="sta ana old design: zoom" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/ss_sta_ana_old_wide.jpg" alt="sta ana old design: wide" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/ss_sta_ana_old_zoom.jpg" alt="sta ana old design: zoom" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     </div>
     <span style="font-size: 55%;">Older LGU-issued street signs along Sta. Ana Ave., featuring bilingual text and a red dragon cut-out
 </div>
@@ -186,10 +186,10 @@ Unlike earlier designs, the newer variation incorporates a three-dimensional lan
 
 <div align="center">
     <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/ss_bdo.jpg" alt="bdo street sign" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/ss_dccdc.jpg" alt="dccdc street sign" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/ss_empty.jpg" alt="emptry street signs" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/ss_metro.jpg" alt="metrobank street signs" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/ss_bdo.jpg" alt="bdo street sign" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/ss_dccdc.jpg" alt="dccdc street sign" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/ss_empty.jpg" alt="emptry street signs" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/ss_metro.jpg" alt="metrobank street signs" style="width: 100%; height: 180px; object-fit: cover; border-radius: 4px;">
     </div>
 </div>
 
@@ -199,9 +199,9 @@ Aside from the design element, the text on these street signs is equally interes
 
 <div align="center">
     <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <img src="assets/street_signs/sta_ana_new.jpg" alt="Sta. Ana. New" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/street_signs/sta_ana_old.jpg" alt="Sta. Ana Old" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
-        <img src="assets/street_signs/sta_ana_suyhoo.jpg" alt="Sta. Ana Suyhoo" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/street_signs/sta_ana_new.jpg" alt="Sta. Ana. New" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/street_signs/sta_ana_old.jpg" alt="Sta. Ana Old" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+        <img src="assets/street_signs/street_signs/sta_ana_suyhoo.jpg" alt="Sta. Ana Suyhoo" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     </div>
 </div>
 
@@ -264,7 +264,7 @@ Shop signs provide a more everyday expression of Chinatown's identity. While the
     </div>
 </div>
 
-<span style="font-size: 55%;">Some establishments later added Chinese characters</span>
+<span style="font-size: 55%; text-align: center;">Some establishments later added Chinese characters</span>
 
 Representatives from the Chinatown Development Council acknowledged the difficulties in establishing a standardized naming and translation convention across the district. A combination of factors including generational differences, varyling linguistic backgrounds among business owners, and the challenge of balancing historic *Hokkien* transliterations with contemporary Mandarin standards, has made uniform adoption difficult. Ulitmately, these varied shop signs reflect a living process of cultural adaptation. The mix of languages and scripts highlights how the local community adapts
 
