@@ -1,12 +1,9 @@
----
-title: References
----
 
 - Alama, R. (2026, February 8). Davao City Chinatown tourism plans to be pursued. Philippine Information Agency. https://pia.gov.ph/news/davao-city-chinatown-tourism-plans-to-be-pursued/
 - Alejandrino, C. L. (2010). The population history of the Chinese in the Philippines: An evaluative historiography. Philippine Population Review, 9(1), 85–108.
 - City Government of Davao. (2022, November 11). Davao City accepts new 25-year tourism master plan. https://davaocity.gov.ph/uncategorized/davao-city-accepts-new-25-year-tourism-master-plan/
 - City Government of Davao. (2024, May 22). Davao City launches 4 tourism circuits. https://davaocity.gov.ph/tourism/davao-city-launches-4-tourism-circuits/
-- City Government of Davao City Information Office. (2025). Kasayuran: Kadayawan Special Edition. City Information News Production and Creative Media Services Units.
+- City Government of Davao City Information Office. (2025). Kasyuran: Kadayawan Special Edition. City Information News Production and Creative Media Services Units.
 - Dacudao, P. I. (2010). Pioneer migrants in the land of promise. Philippine Population Review, 9(1), 109–124.
 - Dacudao, P. I. (2017). Abaca: The socio-economic and cultural transformation of frontier Davao, 1898-1941 (Doctoral dissertation, Murdoch University).
 - Dooc, R. (2022, November 11). Davao City eyes Chinatown as key tourism destination. SunStar Davao. https://www.sunstar.com.ph/davao/business/davao-city-eyes-chinatown-as-key-tourism-destination
