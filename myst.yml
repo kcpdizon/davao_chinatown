@@ -5,13 +5,26 @@ project:
   title: Davao City Chinatown
   description: A present-day documentation of Davao City's Chinatown as a cultural landscape
   keywords: 
-      - jupyter-book
-      - chinatown
+    - jupyter-book
+    - chinatown
   authors: []
   github: kcpdizon/davao_chinatown
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+    - file: frontier_to_chinatown.md
+    - file: reading_the_landscape.md
+    - file: virtual_walking_tour.md
+    - file: references.md
+  exclude:
+    - bin/**
+    - lib/**
+    - share/**
+    - etc/**
+    - pyvenv.cfg
 site: 
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    base_url: /davao_chinatown
+  static:
+    - html
+    - assets
