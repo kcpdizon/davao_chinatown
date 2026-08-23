@@ -1,4 +1,4 @@
-## **From Frontier to Chinatown**
+## From Frontier to Chinatown
 
 ### A Short Overview of the History of Davao's Abaca Industry
 
@@ -9,5 +9,11 @@ Spanish rule in the Davao region began in 1848 when Don Jose Cruz de Oyanguren l
 The foundation of Davao's abaca industry took shape during the American period, though it was the subsequent addition of Japanese planters that made its exponential growth possible. Plantations cultivating abaca grew from 2,499 hectares in 1902 to 75,070 hectares in 1930 (Hayase, 1985). American soldiers and pioneers established the industry's early plantations and early logistical networks in the region, but soon encountered a labor shortage problem as the local indigenous population was not accustomed to sedentary labor. This led the planters to look outward, recruiting foreign laborers such as the Japanese, alongside thousands of migrant workers from other parts of the Philippines. Initially arriving in 1903, the Japanese settlers pioneered highly organized methods and corporate structures, such as the Ohta Development Company in 1906, and the Furukawa Plantation Plantation Company in 1914. These agricultural developments connected the frontier to the global economy. By 1940, more than fifty percent of the country's total abaca production was from Davao, and primarily exported to the United States, Great Britain, and Japan (Dacaudao, 2017).
 
 The Chinese settlers, unlike the Americans and the Japanese, played a more commercial role Davao's growing economy. Dacudao's (2017) 1930 regional lanholding illustrates this: of the hundreds of plantations established in Davao, 106 were operated by Filipinos, 62 by the Japanese, 24 by the Americans, and only 13 by the Chinese. Rather than becoming major plantation owners, the Chinese functioned as middlemen, purchasing ungraded abaca in bulk from the Japanese-run auctions before grading and reselling these (Dacudao, 2017). Their economic activites also extended into retail, with Chinese settlers operating shops along the coast of Davao (Dacudao, 2017). While these migant communities occupied different economic positions, each played a distinct role in the development of Davao. The Chinese community, became associated with commercial activity, establishing shops and businesses in the area. Over time, the concentration of Chinese-owned businesses and residents in the area contributed to the settlement pattern that would eventually be recognized as Davao City's Chinatown.
+
+```{image} assets/archways/arch_unity.jpg
+:alt: unity arch
+:width: 500px
+:align: center
+```
 
 
