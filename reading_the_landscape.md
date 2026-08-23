@@ -1,11 +1,8 @@
 # Reading the Landscape of Davao City Chinatown
 
-<p style="text-align: justify;">
 As part of its tourism and heritage initiatives, the Davao City government, in cooperation with Davao City Chinatown Development Council (DCCDC), has progressively developed and promoted the district since its designation in 2023. 
 
 This section examines the visual elements introduced through the Davao City Chinatown Development Council's initiatives. The discussion is based primarily on my personal observations while walking through the area and an interview with members of the council. 
-</p>
-
 
 ## Archways
 
@@ -16,7 +13,7 @@ Davao City's Chinatown has four archways serving as its entry points: the Unity 
   style="width: 70%; height: 350px; border: 0;" 
   allowfullscreen 
   allow="geolocation" 
-  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#16/7.075468/125.616560">
+  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#16/7.076064/125.619092">
 </iframe>
 </div>
 
