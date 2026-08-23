@@ -1,4 +1,8 @@
-## The Question: Whose Heritage? 
+---
+title: Whose heritage?
+---
+
+### The Question: Whose heritage?
 
 Scholarship on urban revitalization often treats municipal heritage designations as top-down branding exercises, imposed by the government to commodify ethnic spaces for tourism (Mabillar, & Echattabi, 2024). Under this view, local communities and their interests are set aside in favor of tourist consumption. However, interview data from members of the Davao City Chinatown Development Council complicates this assumption. Council members described a highly collaborative, negotiated process rather than one where they were dictated to. This transforms our understanding of the district's evolution: while the initial formalization was sparked by top-down, planned tourism goals, the actual execution functions as a negotiated, co-created space where the community's heritage and the state's economic interests actively cooperate. 
 

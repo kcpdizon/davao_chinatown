@@ -15,7 +15,7 @@ Davao City's Chinatown has four archways serving as its entry points: the Unity 
   style="width: 70%; height: 350px; border: 0;" 
   allowfullscreen 
   allow="geolocation" 
-  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#16/7.076064/125.619092">
+  src="https://umap.openstreetmap.fr/en/map/chinatown_arches_1447266?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#15/7.075298/125.619650">
 </iframe>
 </div>
 
@@ -40,13 +40,12 @@ Completed on January 31, 2009, this was the second of four archways planned in C
 </p>
 
 <div align="center">
-    <div style="margin-bottom: 10px;">
+    <div style="margin-bottom: 10px; text-align: center;">
     <img src="assets/archways/panolong.jpg" alt="panolong" width="40%">
 
-<span style="font-size: 55%;">Nikka Cunom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons</span>
-</div>
-
-*Panalong, the extended house beam of a torogan, found on houses of sultans of the Maranao*
+<span style="font-size: 55%; display: block; text-align: center;">Nikka Cunom, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons</span>
+    </div>
+<span style="font-size: 70%; display: block; text-align: center;">*Panalong, the extended house beam of a torogan, found on houses of sultans of the Maranao*</span>
 </div>
 
 The construction of the archway was made possible with the donations of members of the Filipino-Chinese community, the Dabaw Kaisa Foundation, Inc., the Davao Filipino Chinese Chamber of Commerce, Inc., Davao Lioc Kui Fraternity, Inc., the Davao Filipino-Chinese Young Entrepreneur's Club, the Davao Filipino-Chinese Amity Club Davao Chapter, the Philippine Lam An Association Mindanao Chapter, and the Philippine Trust Bank.
@@ -75,7 +74,7 @@ Familiar design motifs are present at the park: dragons chasing durians (rather 
     </div>
 </div>
 
-Also completed in 2009, this archway is predominantly red in color, with the Chinese characters for peace archway「和平」and its English translation in the middle. Like the other archways, similar Chinese motifs are present: the carp, the dragons, and the pearl. The main design pattern features distinctly-Davao symbols: the *Waling-waling*, a type of orchid endemic to the Philippines, the Philippine Eagle, for which the Mount Apo region serves as one of its ancient breeding grounds, the durian, the fruit Davao is known for, and what appears to be a motif reminiscent of the Mindanawon *okkir* pattern. The hexagonal design in the middle is the logo of the Yuchengco Group of Companies, the primary sponsor for this archway. 
+Also completed in 2009, this archway is predominantly red in color, with the Chinese characters for peace archway「和平」and its English translation in the middle. Like the previous archway, similar Chinese motifs are present: the carp, the dragons, and the pearl. The main design pattern features distinctly-Davao symbols: the *Waling-waling*, a type of orchid endemic to the Philippines, the Philippine Eagle, for which the Mount Apo region serves as one of its ancient breeding grounds, the durian, the fruit Davao is most known for, and what appears to be a motif reminiscent of the Mindanawon *okkir* pattern. The hexagonal design in the middle is the logo of the Yuchengco Group of Companies, the primary sponsor for this archway. 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
     <img src="assets/archways/arch_peace_carp.jpg" alt="carp motif" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
@@ -135,20 +134,21 @@ Bilingual Chinese and English street signs stand out as another visible marker o
   style="width: 70%; height: 350px; border: 0;" 
   allowfullscreen 
   allow="geolocation" 
-  src="https://umap.openstreetmap.fr/en/map/chinatown_street-signs_1447262?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#16/7.076064/125.619092">
+  src="https://umap.openstreetmap.fr/en/map/chinatown_street-signs_1447262?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#15/7.075298/125.619650">
 </iframe>
 </div>
 
-Walking around Chinatown, I've noticed a few different versions of the 44 street signs identified in the area. Along Sta. Ana Ave. are some of the older designs, which lack the lanterns found on newer designs. Attached on top of these signs are cutouts of dragons painted red. These signs are bilingual, with the local names on top, and the Chinese translation below. According to the Council, these were done by the local government unit.
+Walking around Chinatown, I've noticed a few different versions of the 44 street signs identified in the area. Along Sta. Ana Ave. are some of the older designs, which lack the lanterns found on newer designs. Attached on top of these signs are cutouts of dragons painted red. These signs are bilingual, with the local names on top, and the Chinese translation below. As clarified by the Council, this initiative was carried out directly by the local government unit (LGU) rather than the Council itself.
 
 <div align="center">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 1px;">
         <img src="assets/street_signs/ss_sta_ana_old_wide.jpg" alt="sta ana old design: wide" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
         <img src="assets/street_signs/ss_sta_ana_old_zoom.jpg" alt="sta ana old design: zoom" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     </div>
-    <span style="font-size: 55%;">Older LGU-issued street signs along Sta. Ana Ave., featuring bilingual text and a red dragon cut-out</span>
+    <span style="font-size: 55%; display: block; text-align: center; margin-bottom: 20px; margin-top: 2px;">
+        Older LGU-issued street signs along Sta. Ana Ave., featuring bilingual text and a red dragon cut-out
+    </span>
 </div>
-
 
 Unlike earlier designs, the newer variation incorporates a three-dimensional lantern mounted atop, which also serves as a branding space for corporate sponsors. The dragon fixtures have also been updated to three-dimensional figures chasing after durians. These newer street signs are mostly found along T. Monteverde Ave., and R. Magsaysay Ave. (formerly Uyanguren St.). As of August 2026, there are two (2) with empty lanterns, nineteen (19) with BDO (Banco de Oro), seventeen (17) with Metrobank, and interestingly, one (1) with the Davao City Chinatown Development Council (DCCDC).
 
@@ -185,8 +185,9 @@ Shop signs provide a more everyday expression of Chinatown's identity. While the
     <img src="assets/signage/sign_simplified.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     <img src="assets/signage/sign_traditional.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
 </div>
-
-<span style="font-size: 55%;">simplified and traditional script present on signs</span>
+<span style="font-size: 55%; display: block; text-align: center; margin-bottom: 20px; margin-top: 2px;">
+    Both simplified and traditional script are found on signs in Chinatown
+</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin-bottom: 10px;">
     <img src="assets/signage/sign_namao_1.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
@@ -194,30 +195,36 @@ Shop signs provide a more everyday expression of Chinatown's identity. While the
     <img src="assets/signage/sign_namao_3.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     <img src="assets/signage/sign_dawo.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
 </div>
-
-<span style="font-size: 55%;">Older establishments predominantly retain the use of Hokkien transliteration 納卯 rather than the modern Mandarin transliteration 達沃</span>
+<span style="font-size: 55%; display: block; text-align: center; margin-bottom: 20px; margin-top: 2px;">
+    Older establishments predominantly retain the use of *Hokkien* transliteration 納卯 rather than the modern Mandarin transliteration 達沃
+</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
     <img src="assets/signage/sign_translation_1.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     <img src="assets/signage/sign_translation_2.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">        
     <img src="assets/signage/sign_translation_3.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
 </div>
-<span style="font-size: 55%;">Direct translation of business names</span>
-
+<span style="font-size: 55%; display: block; text-align: center; margin-bottom: 20px; margin-top: 2px;">
+    Direct translation of business names
+</span>
+    
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
     <img src="assets/signage/sign_transliteration_1.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     <img src="assets/signage/sign_transliteration_2.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">        
 </div>
-<span style="font-size: 55%;">Transliteration of business names</span>
+<span style="font-size: 55%; display: block; text-align: center; margin-bottom: 20px; margin-top: 2px;">
+    Transliteration of business names
+</span>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin-bottom: 10px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin-top: 10px; margin-bottom: 4px;">
     <img src="assets/signage/sign_addition_1.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover; border-radius: 4px;">
     <img src="assets/signage/sign_addition_2.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover; border-radius: 4px;">        
     <img src="assets/signage/sign_addition_3.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover; border-radius: 4px;">
     <img src="assets/signage/sign_addition_4.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover; border-radius: 4px;">
-    <img src="assets/signage/sign_addition_5.jpg" alt="" style="width: 100%; height: 200px; object-fit: cover; border-radius: 4px;">
 </div>
+   <span style="font-size: 55%; display: block; text-align: center; margin-bottom: 20px; margin-top: 2px;">
+        For some business establishments, the Chinese characters were a later addition to their signages
+    </span>
 
-<span style="font-size: 55%; text-align: center;">Some establishments later added Chinese characters</span>
 
-Representatives from the Chinatown Development Council acknowledged the difficulties in establishing a standardized naming and translation convention across the district. A combination of factors including generational differences, varyling linguistic backgrounds among business owners, and the challenge of balancing historic *Hokkien* transliterations with contemporary Mandarin standards, has made uniform adoption difficult. Ulitmately, these varied shop signs reflect a living process of cultural adaptation. The mix of languages and scripts highlights how the local community adapts
+Representatives from the Chinatown Development Council acknowledged the difficulties in establishing a standardized naming and translation convention across the district. A combination of factors including generational differences, varyling linguistic backgrounds among business owners, and the challenge of balancing historic *Hokkien* transliterations with contemporary Mandarin standards, has made uniform adoption difficult. Ulitmately, these varied shop signs reflect a living process of cultural adaptation. The mix of languages and scripts highlights how the local community is actively adapting to align with the Council's development plans.

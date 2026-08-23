@@ -1,3 +1,6 @@
+---
+title: Davao City Chinatown
+---
 
 This project documents the present-day cultural landscape of Davao City's Chinatown, also known as Santa Ana or Uyanguren, analyzing its spatial characteristics and built environment, particularly following its formal designation as Chinatown in 2003. 
 
@@ -6,7 +9,10 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 
 ```{iframe} ./html/fly_to_davao.html
 :width:100%
+:height: 100%
+:scrolling: "no"
 ```
+
 
 Davao City is located on the island of Mindanao, facing the Davao Gulf. Its geographic position made the region an important site of agricultural production, migration and commercial exchange in the early twentieth century. 
 
@@ -27,6 +33,7 @@ In 2003, through Ordinance No. 0179-03, the city government officially designate
 
 ```{iframe} ./html/unity_arch_photosphere.html
 :width:100%
+:style: "margin-bottom: 10px; border: none;"
 ```
 
 ### Research Questions
