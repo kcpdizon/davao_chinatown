@@ -4,15 +4,9 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 
 ### Where is Davao?
 
-```{raw} html
-<div style="display: flex; justify-content: center; width: 100%; margin: 1rem 0;">
-  <iframe 
-    src="./html/fly_to_davao.html" 
-    title="Zooming into Davao City" 
-    style="width: 100%; max-width: 800px; height: 450px; border: none; outline: none; border-radius: 8px;"
-    scrolling="no">
-  </iframe>
-</div>
+
+```{iframe} ./html/fly_to_davao.html
+:width:100%
 ```
 
 Davao City is located on the island of Mindanao, facing the Davao Gulf. Its geographic position made the region an important site of agricultural production, migration and commercial exchange in the early twentieth century. 
@@ -21,7 +15,7 @@ Davao City is located on the island of Mindanao, facing the Davao Gulf. Its geog
 ### Why Davao City Chinatown?
 
 <p style="text-align: justify;">
-Unlike their counterparts in other major trading hubs in the country such as Manila or Cebu, the Chinese in Davao were a small minority relative to the predominant Japanese settler population (Alejandrino, 2010; Dacudao, 2010). In the early decades of the twentieth century, it was through the abaca industry that Davao experienced substantial economic growth, transforming the region into a thriving agricultural and commercial center (Dacudao, 2017). As the abaca boom prompted migration to the region over the following decades, the number of Chinese in Davao grew substantially, from just 19 individuals in 1903 to 3,595 individuals by 1939 (Dacudao, 2017). Even so, the Chinese only accounted for 1.23% of the total population of Davao, dwarfed by the Japanese and Filipino settlers, and only 3.06% of the national Chinese population (Alejandino, 2010; Dacudao, 2010).
+Unlike their counterparts in other major trading hubs in the country such as Manila or Cebu, the Chinese in Davao were a small minority relative to the predominant Japanese settler population (Alejandrino, 2010; Dacudao, 2010). In the early decades of the twentieth century, it was through the abaca industry that Davao experienced substantial economic growth, transforming the region into a thriving agricultural and commercial center (Dacudao, 2017). As the abaca boom prompted migration to the region over the following decades, the number of Chinese in Davao grew substantially, from just 19 individuals in 1903 to 3,595 individuals by 1939 (Dacudao, 2017). Even so, the Chinese only accounted for 1.23% of the total population of Davao, dwarfed by the Japanese and Filipino settlers, and only 3.06% of the national Chinese population (Alejandrino, 2010; Dacudao, 2010).
 </p>
 
 <p style="text-align: justify;">
@@ -32,14 +26,8 @@ Despite this small demographic footprint, the Chinese community in Davao found t
 In 2003, through Ordinance No. 0179-03, the city government officially designated a 44-hectare zone across Barangays 27-C and 30-C as Chinatown, making it the largest in the country by land area. The district is bounded by Ramon Magsaysay Ave. (formerly Uyanguren Street), Leon Garcia St., Tomas Monteverde Ave., and Santa Ana Ave., marked by four distinct archways at its entry points.  According to the document, the formal establishment of Chinatown was in recognition of the Chinese community's considerable historical, economic, and social contributions to the city (Sangguniang Panlungsod ng Dabaw, 2003). The same ordinance created the Davao City Chinatown Development Council (DCCDC), composed of city government officials and private-sector representatives from the Filipino-Chinese community, tasked to oversee the district's development and preservation (Sangguniang Panlungsod ng Dabaw, 2003). Through its creation of the DCCDC, the local government provided a formal platform for the local community to actively participate in its development and preservation. 
 </p>
 
-```{raw} html
-<div style="display: flex; justify-content: center; width: 100%; margin: 1rem 0;">
-  <iframe 
-    src="./html/unity_arch_photosphere.html" 
-    title="Unity Arch Photosphere" 
-    style="width: 100%; max-width: 800px; height: 450px; border: none; outline: none; border-radius: 8px;">
-  </iframe>
-</div>
+```{iframe} ./html/unity_arch_photosphere.html
+:width:100%
 ```
 
 ### Research Questions
