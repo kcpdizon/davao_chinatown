@@ -1,4 +1,3 @@
-
 ### Project Introduction
 
 This project documents the present-day cultural landscape of Davao City's Chinatown, also known as Santa Ana or Uyanguren, analyzing its spatial characteristics and built environment, particularly following its formal designation as Chinatown in 2003. 
@@ -8,7 +7,7 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 ```{raw} html
 <div style="display: flex; justify-content: center; width: 100%; margin: 1rem 0;">
   <iframe 
-    src="https://kcpdizon.github.io/davao_chinatown/html/fly_to_davao.html" 
+    src="./html/fly_to_davao.html" 
     title="Zooming into Davao City" 
     style="width: 100%; max-width: 800px; height: 450px; border: none; outline: none; border-radius: 8px;"
     scrolling="no">
@@ -33,9 +32,14 @@ Despite this small demographic footprint, the Chinese community in Davao found t
 In 2003, through Ordinance No. 0179-03, the city government officially designated a 44-hectare zone across Barangays 27-C and 30-C as Chinatown, making it the largest in the country by land area. The district is bounded by Ramon Magsaysay Ave. (formerly Uyanguren Street), Leon Garcia St., Tomas Monteverde Ave., and Santa Ana Ave., marked by four distinct archways at its entry points.  According to the document, the formal establishment of Chinatown was in recognition of the Chinese community's considerable historical, economic, and social contributions to the city (Sangguniang Panlungsod ng Dabaw, 2003). The same ordinance created the Davao City Chinatown Development Council (DCCDC), composed of city government officials and private-sector representatives from the Filipino-Chinese community, tasked to oversee the district's development and preservation (Sangguniang Panlungsod ng Dabaw, 2003). Through its creation of the DCCDC, the local government provided a formal platform for the local community to actively participate in its development and preservation. 
 </p>
 
-```{iframe} ./html/unity_arch_photosphere.html
-:width: 100%
-:height: 450px
+```{raw} html
+<div style="display: flex; justify-content: center; width: 100%; margin: 1rem 0;">
+  <iframe 
+    src="./html/unity_arch_photosphere.html" 
+    title="Unity Arch Photosphere" 
+    style="width: 100%; max-width: 800px; height: 450px; border: none; outline: none; border-radius: 8px;">
+  </iframe>
+</div>
 ```
 
 ### Research Questions
