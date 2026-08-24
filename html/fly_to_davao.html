@@ -15,13 +15,13 @@
     html, body {
       margin: 0;
       padding: 0;
-      width: 100%;
       height: 100%;
+      overflow: hidden;
     }
 
     #map {
-      width: 150%;
-      height: 600px;
+      width: 100%;
+      height: 100%;
     }
 
     #fly {
@@ -68,7 +68,7 @@ const map = new maplibregl.Map({
   style: 'https://tiles.openfreemap.org/styles/liberty',
 
   // Philippines-wide starting view
-  center: [128.0, 10.0],
+  center: [123.0, 13.0],
   zoom: 4.5
 
 });

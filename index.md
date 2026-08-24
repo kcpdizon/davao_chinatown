@@ -9,8 +9,7 @@ This project documents the present-day cultural landscape of Davao City's Chinat
 
 ```{iframe} ./html/fly_to_davao.html
 :width:100%
-:height: 100%
-:scrolling: "no"
+:height: 500px
 ```
 
 
@@ -33,7 +32,7 @@ In 2003, through Ordinance No. 0179-03, the city government officially designate
 
 ```{iframe} ./html/unity_arch_photosphere.html
 :width:100%
-:style: "margin-bottom: 10px; border: none;"
+:style: "margin-bottom: 20px; border: none;"
 ```
 
 ### Research Questions
