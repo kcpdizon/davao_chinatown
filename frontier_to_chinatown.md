@@ -2,9 +2,9 @@
 title: From Frontier to Chinatown
 ---
 
-### A Short Overview of the History of Davao's Abaca Industry
+### An Overview of Davao's Abaca Industry
 
-```{image} assets/archways/arch_unity.jpg
+```{image} assets/abaca.jpg
 :alt: unity arch
 :width: 500px
 :align: center
