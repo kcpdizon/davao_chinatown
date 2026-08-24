@@ -74,11 +74,20 @@ Familiar design motifs are present at the park: dragons chasing durians (rather 
     </div>
 </div>
 
-Also completed in 2009, this archway is predominantly red in color, with the Chinese characters for peace archway「和平」and its English translation in the middle. Like the previous archway, similar Chinese motifs are present: the carp, the dragons, and the pearl. The main design pattern features distinctly-Davao symbols: the *Waling-waling*, a type of orchid endemic to the Philippines, the Philippine Eagle, for which the Mount Apo region serves as one of its ancient breeding grounds, the durian, the fruit Davao is most known for, and what appears to be a motif reminiscent of the Mindanawon *okkir* pattern. The hexagonal design in the middle is the logo of the Yuchengco Group of Companies, the primary sponsor for this archway. 
+Also completed in 2009, this archway is predominantly red in color, with the Chinese characters for peace archway「和平」and its English translation in the middle. Like the previous archway, similar Chinese motifs are present: the carp, the dragons, and the pearl. The main design pattern features distinctly-Davao symbols: the *Waling-waling*, a type of orchid endemic to the Philippines, the Philippine Eagle, for which the Mount Apo region serves as one of its ancient breeding grounds, the durian, the fruit Davao is most known for, and what appears to be a motif reminiscent of the Mindanawon *okir* pattern. The hexagonal design in the middle is the logo of the Yuchengco Group of Companies, the primary sponsor for this archway. 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
     <img src="assets/archways/arch_peace_carp.jpg" alt="carp motif" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
     <img src="assets/archways/arch_peace_details.jpg" alt="center pattern" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
+</div>
+
+<div align="center">
+    <div style="margin-bottom: 10px; text-align: center;">
+    <img src="assets/archways/maranao_agong.jpg" alt="agong with okir pattern" width="60%">
+    
+<span style="font-size: 55%; display: block; text-align: center;">Gary Todd, CC0, via Wikimedia Commons</span>
+    </div>
+<span style="font-size: 70%; display: block; text-align: center;">*The Maranao Agong or Agung are vertically-suspended gongs often found in kulintang ensembles*</span>
 </div>
 
 Moving to the inscriptions on the pillars of the archway, we can find some information on the monuments or the archways constructed on the borders of Chinatown. Another interesting find is a variation of the Chinese translation for Davao's Chinatown: 「華埠」. 
@@ -161,7 +170,7 @@ Unlike earlier designs, the newer variation incorporates a three-dimensional lan
 
 An interesting pattern is the concentration of Metrobank-sponsored street signs along T. Monteverde Ave., and the concentration of BDO-sponsored street signs along R. Magsaysay Ave. According to the Council, the first set of street signs were courtesy of BDO, sponsoring 20 signs. Metrobank soon followed with their own set of signs along T. Monteverde Ave.
 
-Aside from the design element, the text on these street signs is equally interesting. While the Chinese characters on the current signs were translated by former member Nancy King Ong of Davao Chong Hua High School, it is unclear as to who was responsible for the characters on the older, LGU-sponsored signs. As a result, some street names can have multiple varying translations. Take for example Sta. Ana Street, which has three different translations: 聖安街 , 三達安娜 , and the bonus 仙沓安娜 (as written in Farmacia Suy Hoo's shop signage).
+Aside from the design element, the text on these street signs is equally interesting. While the Chinese characters on the current signs were translated by former DCCDC member Nancy King Ong of Davao Chong Hua High School, it is unclear as to who was responsible for the characters on the older, LGU-sponsored signs. As a result, some street names can have multiple varying translations. Take for example Sta. Ana Street, which has three different translations: 聖安街 , 三達安娜 , and the bonus 仙沓安娜 (as written in Farmacia Suy Hoo's shop signage).
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
     <img src="assets/street_signs/sta_ana_new.jpg" alt="bdo street sign" style="width: 100%; height: 200px; object-fit: cover; border-radius: 4px;">
@@ -179,7 +188,7 @@ While the majority of street signs in the area have been updated to the predomin
 
 ## **Shop Signs**
 
-Shop signs provide a more everyday expression of Chinatown's identity. While there is no official city ordinance requiring bilingual display, several storefronts have adopted Chinese characters and decorative elements, acting on encouragement from the Chinatown Development Council. On bilingual signages, the variations often include: the use of either traditional or simplified characters, the use of either the *Hokkien* translation 「納卯」 or the Mandarin translation 「達沃」 for 'Davao', and differing approaches to translating or transliterating business names. 
+Shop signs provide a more everyday expression of Chinatown's identity. While there is no official city ordinance requiring bilingual display, several storefronts have adopted Chinese characters and decorative elements, acting on encouragement from the Chinatown Development Council. On bilingual signages, the variations often include: the use of either traditional or simplified characters, the use of either the Hokkien translation 「納卯」 or the Mandarin translation 「達沃」 for 'Davao', and differing approaches to translating or transliterating business names. 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 10px;">
     <img src="assets/signage/sign_simplified.jpg" alt="" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px;">
