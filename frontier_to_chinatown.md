@@ -4,7 +4,13 @@ title: From Frontier to Chinatown
 
 ### A Short Overview of the History of Davao's Abaca Industry
 
-The designation of Davao City's Chiantown formalized a settlement pattern with roots in the early twentieth century. Prior to the arrival of the Spanish, the Davao Gulf was home to the Lumad, or the Indigenous peoples of Mindanao. The Spanish noted the region as having the most number of tribes in the Philippines, with various subsequent records by international and local observers reporting anywhere from 6 to 38 unique tribes (Dacudao, 2017). Today, while Davao City's official 11 ethnolingustic groups framework includes non-native migratory Moro communities: the Bangsa Iranun, Bangsa Maranao, Bangsa Kagan, Bangsa Maguindanaon, Bangsa Sama and Bangsa Tausug for contemporary representation (City Information Office, 2025), historical literature offers a broader scope. According to local historian Macario Tiu (2021), there are 15 groups native to the broader Davao Gulf region: the Atas, Bagobos, Blaans, Dibabawons, Jangas, Kalagans, Kulaman Manobos, Mandauyas, Mangguwangans, Mansakas, Matigsalogs, Obu Manuvus, Samals, Sangils, and the Tagakaolos. These tribes maintained a semi-nomadic lifestyle, relying predominantly on hunting and foraging, supplementing their diet with basic farming (Dacudao, 2017). This would be disrupted by the arrival of the Spanish in the mid-nineteenth century.
+```{image} assets/archways/arch_unity.jpg
+:alt: unity arch
+:width: 500px
+:align: center
+```
+
+The designation of Davao City's Chinatown formalized a settlement pattern with roots in the early twentieth century. Prior to the arrival of the Spanish, the Davao Gulf was home to the Lumad, or the Indigenous peoples of Mindanao. The Spanish noted the region as having the most number of tribes in the Philippines, with various subsequent records by international and local observers reporting anywhere from 6 to 38 unique tribes (Dacudao, 2017). Today, while Davao City's official 11 ethnolingustic groups framework includes non-native migratory Moro communities: the Bangsa Iranun, Bangsa Maranao, Bangsa Kagan, Bangsa Maguindanaon, Bangsa Sama and Bangsa Tausug for contemporary representation (City Information Office, 2025), historical literature offers a broader scope. According to local historian Macario Tiu (2021), there are 15 groups native to the broader Davao Gulf region: the Atas, Bagobos, Blaans, Dibabawons, Jangas, Kalagans, Kulaman Manobos, Mandauyas, Mangguwangans, Mansakas, Matigsalogs, Obu Manuvus, Samals, Sangils, and the Tagakaolos. These tribes maintained a semi-nomadic lifestyle, relying predominantly on hunting and foraging, supplementing their diet with basic farming (Dacudao, 2017). This would be disrupted by the arrival of the Spanish in the mid-nineteenth century.
 
 Spanish rule in the Davao region began in 1848 when Don Jose Cruz de Oyanguren launched a military expedition against Datu Bago, the ruling chieftain of the Davao Gulf area. Oyanguren and his men landed at present-day Sta. Ana district, from where they advanced towards and defeated Datu Bago's settlement in the Bankerohan area, ultimately defeating the chieftain and establishing their capital of *Nueva Vergara* (Tiu, 2021). Despite this, Spanish authority in the region remained largely unstable and limited, and abaca was not developed into an industry during this fifty-year period (Dacudao, 2017; Tiu, 2021). 
 
@@ -12,10 +18,22 @@ The foundation of Davao's abaca industry took shape during the American period, 
 
 The Chinese settlers, unlike the Americans and the Japanese, played a more commercial role Davao's growing economy. Dacudao's (2017) 1930 regional lanholding illustrates this: of the hundreds of plantations established in Davao, 106 were operated by Filipinos, 62 by the Japanese, 24 by the Americans, and only 13 by the Chinese. Rather than becoming major plantation owners, the Chinese functioned as middlemen, purchasing ungraded abaca in bulk from the Japanese-run auctions before grading and reselling these (Dacudao, 2017). Their economic activites also extended into retail, with Chinese settlers operating shops along the coast of Davao (Dacudao, 2017). While these migant communities occupied different economic positions, each played a distinct role in the development of Davao. The Chinese community, became associated with commercial activity, establishing shops and businesses in the area. Over time, the concentration of Chinese-owned businesses and residents in the area contributed to the settlement pattern that would eventually be recognized as Davao City's Chinatown.
 
-```{image} assets/archways/arch_unity.jpg
-:alt: unity arch
-:width: 500px
-:align: center
+### 360 Capture of Present-day Chinatown
+
+Below is an interactive 360 capture of Chinatown. Due to road restrictions, the capture was divided into 5 parts: 1 for the outer perimeter and 4 for the inner streets. 
+
+<!--
+```{iframe} ../html/mapillary_multi_embed.html
+:width:100%
+:height: 800px
 ```
+-->
+<iframe 
+  src="../html/mapillary_multi_embed.html" 
+  width="100%" 
+  height="900px" 
+  style="border-radius: 12px;"
+  scrolling="no">
+</iframe>
 
 
